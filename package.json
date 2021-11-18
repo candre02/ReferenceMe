@@ -1,0 +1,25 @@
+{
+  "name": "referenceme",
+  "version": "1.0.0",
+  "description": "ReferenceMe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/candre02/ReferenceMe.git"
+  },
+  "keywords": [
+    "ReferenceMe"
+  ],
+  "author": "Crystal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/candre02/ReferenceMe/issues"
+  },
+  "homepage": "https://github.com/candre02/ReferenceMe#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
