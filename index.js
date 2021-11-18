@@ -97,7 +97,15 @@ inquirer.prompt = ([
 {
     type: 'input',
     message: 'What commands are needed to test this app?',
-    name: 'Tests'
+    name: 'Tests',
+    validate: testInput => {
+        if (testInput) {
+            return true;
+        } else {
+            console.log('Please enter your description here!');
+            return false;
+        }
+    }
 },
 {
     type: 'input',
