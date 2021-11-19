@@ -15,12 +15,12 @@ return `
 
 <body>
 <header>
-  <h1>${data.Title}</h1>
-  <a href="https://github.com/${data.Username}/${data.Title}">Github</a>
+  <h1>${Title}</h1>
+  <a href="https://github.com/${Username}/${Title}">Github</a>
 </header>
 
 <section>
-<h2>${data.Description}</h2>
+<h2>${Description}</h2>
 <p>This app allows developers to create a professional README.md file, that is clean, efficient, and easy to use.</p>
 </section>
 
@@ -37,36 +37,36 @@ return `
 </section>
 
 <sectio>
-<h2>${data.installation}</h2>
+<h2>${installation}</h2>
 <p>The following necessary dependencies must be installed to run the application properly:
 </p>
 </section>
 
 <section>
-<h2>${data.Usage}</h2>
+<h2>${Usage}</h2>
 <p>After initialing this app with node index.js, you will answer a series of prompts that will output a professional readme.md file based on that users input.
 </p>
 </section
 
 <section>
-<h2>${data.License}</h2>
-<p>This project is licensed under the       License. ![Github license](http://img.shields.io/badge/license-MIT-green.svg)
+<h2>${License}</h2>
+<p>This project is licensed under the       
 </p>
 </section>
 
 <section>
-<h2>${data.Credits}</h2>
+<h2>${Credits}</h2>
 <p>Contributors: </p>
 </section>
 
 <section>
-<h2>${data.Tests}</h2>
+<h2>${Tests}</h2>
 <p>The following is needed to run the tests:</p>
 </section>
 
 <footer>
 <h2>Contact</h2>
-<p>If you have any questions about the Response, open an issure or contact ${data.Username} directly at: ${data.Email}. Thank You!</p>
+<p>If you have any questions about the Response, open an issure or contact ${Username} directly at: ${Email}. Thank You!</p>
 </footer>  
 </body>
 </html>

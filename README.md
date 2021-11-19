@@ -1,9 +1,9 @@
 
 
 #Title 
-rd
+gr
 ## License
-[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
@@ -12,16 +12,16 @@ rd
 * [Tests](#tests)
 * [Contact](#contact)
 ## Desciption
-rd
+gr
 ## Installation
-node
+inquirer, fs
 ## Usage
-blah
+terminal
 ## Credits
 no
 ## Tests
-fs
+node index,js
 
 # Contact
-* Github: ca
-* E-mail: ca
+* Github: candre
+* E-mail: candre
