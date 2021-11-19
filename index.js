@@ -69,7 +69,7 @@ inquirer.prompt([
     {
         // list of licenses
         type: 'list',
-        message: 'What license is being used? (ISC.. MIT)',
+        message: 'What license is being used?',
         name: 'License',
         choices: ['MIT','GNU','IBM','ISC', "Apache", 'Mozilla', 'N/A'],
         validate: licenseInput => {
