@@ -139,7 +139,7 @@ inquirer.prompt([
         }
     }
 ])
-
+    // created a license badge variable and conditional of badges and links
     .then(data => {
         let licenseBadge = '';
         if (data.License === 'MIT') {
