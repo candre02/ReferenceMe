@@ -1,9 +1,9 @@
 
 
 #Title 
-m
+README.md Generator
 ## License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
@@ -12,16 +12,16 @@ m
 * [Tests](#tests)
 * [Contact](#contact)
 ## Desciption
-m
+It prompts the user for infomation about the project
 ## Installation
-j
+The user would need to use the following dependencies to install this app, which are node.js, file system, and inquirer
 ## Usage
-j
+In order for the project to be used, the user would need  the command-line and npm. 
 ## Credits
-n
+no
 ## Tests
-d
+none
 
 # Contact
-* Github: d
-* E-mail: d
+* Github: candre02
+* E-mail: candre02.2@gmail.com
