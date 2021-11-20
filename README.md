@@ -1,7 +1,7 @@
 
 
 #Title 
-README.md Generator
+README Generator
 ## License
 [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 ## Table of Contents
@@ -14,13 +14,13 @@ README.md Generator
 ## Desciption
 It prompts the user for infomation about the project
 ## Installation
-The user would need to use the following dependencies to install this app, which are node.js, file system, and inquirer
+The user would need  to use the following dependenies to install this app, which are node.js, file system, inquirer.
 ## Usage
-In order for the project to be used, the user would need  the command-line and npm. 
+In order for the project to be used, the user would need the command-line and npm
 ## Credits
-no
+None
 ## Tests
-none
+None
 
 # Contact
 * Github: candre02
