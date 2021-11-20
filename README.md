@@ -1,9 +1,9 @@
 
 
 #Title 
-gr
+m
 ## License
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
@@ -12,16 +12,16 @@ gr
 * [Tests](#tests)
 * [Contact](#contact)
 ## Desciption
-gr
+m
 ## Installation
-inquirer, fs
+j
 ## Usage
-terminal
+j
 ## Credits
-no
+n
 ## Tests
-node index,js
+d
 
 # Contact
-* Github: candre
-* E-mail: candre
+* Github: d
+* E-mail: d
